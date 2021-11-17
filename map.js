@@ -5,7 +5,7 @@ var map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mlnow/ckunawnac3rtn17s7xksr52md',
   zoom: 15,
-  center: [-80.184, 25.818],
+  center: [-80.184, 25.718],
 });
 
 // function to define map layers information
