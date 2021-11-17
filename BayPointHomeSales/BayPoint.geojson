@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Headline": "Former Goldman Sachs exec buys waterfront Miami home for $11M", "Buyer": "Stuart and Pamela Rothenberg", "Seller": "John and Cassandra Walbridge", "Sale_Price": 11000000, "Date": "Dec. 2020", "URL": "https:\/\/therealdeal.com\/miami\/2020\/12\/11\/former-goldman-sachs-exec-buys-waterfront-miami-home-for-11m\/", "Address": "4731 Lake Road, Miami, FL" }, "geometry": { "type": "Point", "coordinates": [ -80.183923471208431, 25.82152545 ] } },
+{ "type": "Feature", "properties": { "Headline": "Jessica Goldman Srebnick trades Miami Beach home for Bay Point mansion", "Buyer": "Joel and Lauren Abelson", "Seller": "Jessica and Scott Srebnick", "Sale_Price": 9200000, "Date": "May 2021", "URL": "https:\/\/therealdeal.com\/miami\/2021\/05\/11\/jessica-goldman-srebnick-trades-miami-beach-home-for-bay-point-mansion\/", "Address": "4511 Lake Road, Miami, FL" }, "geometry": { "type": "Point", "coordinates": [ -80.184984378584971, 25.82053525 ] } },
+{ "type": "Feature", "properties": { "Headline": "Happiness begins in Miami: Joe Jonas, Sophie Turner buy Bay Point mansion", "Buyer": "Joe Jonas and Sophie Turner", "Seller": "Willy Chirino", "Sale_Price": 11000000, "Date": "Sept. 2021", "URL": "https:\/\/therealdeal.com\/miami\/2021\/09\/21\/happiness-begins-in-miami-joe-jonas-sophie-turner-buy-bay-point-mansion\/", "Address": "4400 Island Road, Miami, FL" }, "geometry": { "type": "Point", "coordinates": [ -80.183438040543876, 25.81895945 ] } },
+{ "type": "Feature", "properties": { "Headline": "Cannabis and crypto investor flips waterfront Bay Point mansion for record $18M", "Buyer": "580 Sabal Palm Road (Del LLC)", "Seller": "Craig Bridgman", "Sale_Price": 18000000, "Date": "Nov. 2021", "URL": "Nan", "Address": "580 Sabal Palm Road, Miami, FL" }, "geometry": { "type": "Point", "coordinates": [ -80.1856108, 25.8145906 ] } }
+]
+}
